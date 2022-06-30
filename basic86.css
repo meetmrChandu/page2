@@ -195,6 +195,9 @@ a {
 #container .more {
     text-align: right;
 }
+figcaption {
+    padding-top: 20px;
+}
 a {
     color: #FF9900;
     background-color: #FFFFFF;
